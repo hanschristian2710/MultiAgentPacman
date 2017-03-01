@@ -33,6 +33,7 @@ python pacman.py -p ExpectimaxAgent -l minimaxClassic -a depth=3
 
 # Video overview
 <img src='http://i.imgur.com/IEpdZWC.gif' title='pacman' width='' alt='Video Walkthrough' />
+
 The above shows the pacman behavior on reflex agent with two ghost.
 
 # Thanks
